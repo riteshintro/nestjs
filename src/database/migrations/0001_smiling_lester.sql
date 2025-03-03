@@ -1,0 +1,1 @@
+ALTER TABLE "board" ALTER COLUMN "deleted_at" DROP DEFAULT;
